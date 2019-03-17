@@ -2,9 +2,9 @@
 #include "BIOSphere.hpp"
 
 
-int main()
+int main(int argc, char *argv[])
 {
-	std::cout << "Testing..." << std::endl;
+	// TODO
 
 	return EXIT_SUCCESS;
 }

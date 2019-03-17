@@ -11,4 +11,6 @@
 #include <memory>
 #include <string>
 
+#include <boost/program_options.hpp>
+
 #endif /* INCLUDE_BIOSPHERE_HPP_ */
